@@ -69,7 +69,7 @@ Hi Everyone, Welcome to Front-End bootcamp. This repository contains information
 | Week3| 2  |[Grid-Lesson]()|[Grid-Lab]()|[Grid-HW]()
 | Week3| 3  |[Media-Queries-Lesson]()|[Media-Queries-Lab]()|[Media-Queries-HW])
 | Week3| 4  |[Bootstrap-Lesson]()|[BootstrapLab1]()-[Lab2]()|[Bootstrap-HW]()
-| Week3| 5  |[Css-Quiz]()-[Css-Quiz]()|[Css-Quiz]()
+| Week3| 5  |[Css-Quiz]()-|[Css-Quiz]()
 | Week4| 1  |[Intro-To-JavaScript-Lesson]()|[Lab-1]()-[Lab-2]()|[Intro-To-JS-HW]()
 | Week4| 2  |[JavaScript-Array-Lesson]()|[JS-Lab]()[Lab2]()|[JavaScript-HW]()
 | Week4| 3  |[JavaScript-Objects-Lesson]()|[Lab1]()-[Lab2]()|[JavaScript-Objects-HW]()
