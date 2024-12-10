@@ -6,7 +6,7 @@ Hi Everyone, Welcome to Front-End bootcamp. This repository contains information
 ## Schedule
 |  | Days | Time |
 | --- | ------------- | ------------- |
-| Class | Sun - Thurs  | 10am - 5pm  |
+| Class | Sun - Thurs  | 10am - 3pm  |
 
 
 ## Unit 1 \(Web Development Essentials \)
