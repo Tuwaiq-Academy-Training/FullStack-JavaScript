@@ -1,7 +1,7 @@
 # FullStack-JavaScript
 
 
-Hi Everyone, Welcome to Front-End bootcamp. This repository contains informations, labs, homeworks, projects and lessons specific to your course.
+Hi Everyone, Welcome to FullStack-JavaScript bootcamp. This repository contains informations, labs, homeworks, projects and lessons specific to your course.
 
 ## Schedule
 |  | Days | Time |
