@@ -56,7 +56,7 @@ Hi Everyone, Welcome to FullStack-JavaScript bootcamp. This repository contains 
 | Week | Day | Lesson | Lap | HomeWork |
 |:----:|:---:|:------:|:---:|:--------:|
 | Week1| 1  |[Design-thinking-Lesson]()|[Design-thinking-Lab]()|[Design-thinking-HW]()
-| Week1| 2  |[Design-thinking-Lesson](https://stone-horn-a78.notion.site/Research-bb48340f244b4e98bb82caea76208853)|[Design-thinking-Lab](https://olivine-wool-1ce.notion.site/UX-Lab-fd9277107cb1493b830765d98c56b5bb)|[Design-thinking-HW]()
+| Week1| 2  |[Design-thinking-Lesson](https://stone-horn-a78.notion.site/Research-bb48340f244b4e98bb82caea76208853)|[Design-thinking-Lab](https://olivine-wool-1ce.notion.site/UX-Lab-fd9277107cb1493b830765d98c56b5bb)|[Design-thinking-HW](https://stone-horn-a78.notion.site/UX-HW2-87a642b3fbc242b6b47e4e34d2290614)
 | Week1| 3  |[Design-thinking-Lesson]()|[Design-thinking-Lab]()|[Design-thinking-HW]()
 | Week1| 4  |[Design-thinking-Lesson]()|[Design-thinking-Lab]()|[Design-thinking-HW]()
 | Week1| 5  |[Design-thinking-Lesson]()|[Design-thinking-Lab]()|[Design-thinking-HW]()
