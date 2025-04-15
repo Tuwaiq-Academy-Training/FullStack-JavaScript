@@ -6,7 +6,7 @@ Hi Everyone, Welcome to FullStack-JavaScript bootcamp. This repository contains 
 ## Schedule
 |  | Days | Time |
 | --- | ------------- | ------------- |
-| Class | Sun - Thurs  | 10am - 3pm  |
+| Class | Sun - Thurs  | 9am - 2pm  |
 
 
 ## Unit 1 \(Web Development Essentials \)
