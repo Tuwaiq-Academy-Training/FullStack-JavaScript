@@ -60,7 +60,7 @@ Hi Everyone, Welcome to FullStack-JavaScript bootcamp. This repository contains 
 | Week1| 3  |[Design-thinking-Lesson]()|[Design-thinking-Lab]()|[Design-thinking-HW](https://www.dropbox.com/scl/fi/vjqorh7fsc479tfej9hc2/Design-Thinking.paper?rlkey=qslvtnvspagoau6p5wwp8rlhp&st=van7yyzt&dl=0)
 | Week1| 4  |[Design-thinking-Lesson]()|[Design-thinking-Lab]()|[Design-thinking-HW]()
 | Week1| 5  |[Design-thinking-Lesson]()|[Design-thinking-Lab]()|[Design-thinking-HW]()
-| Week2| 1  |[Intro-To-World-Wide-Web]()|[Intro-To-World-Wide-Web]()|[Intro-To-World-Wide-Web]()
+| Week2| 1  |[Intro-To-World-Wide-Web](https://github.com/Tuwaiq-Academy-Training/Intro-To-World-Wide-Web)|[Intro-To-World-Wide-Web]()|[Intro-To-World-Wide-Web]()
 | Week2| 2  |[HTML-Lesson](https://github.com/Tuwaiq-Academy-Training/HTML-Lesson/blob/main/README.md)|[Lab1]()-[Lab2]()|[HTML-HW]()
 | Week2| 3  |[Git&GitHub-Lesson]()|[Git&GitHub-Lab1]()-[Git&GitHub-Lab2]()|[Git&GitHub-HW]()
 | Week2| 4  |[Git&GitHub-Lesson]()|[Git&GitHub-Lab]()|[Git&GitHub-HW]()
