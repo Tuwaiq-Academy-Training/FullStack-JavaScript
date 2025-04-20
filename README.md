@@ -61,7 +61,7 @@ Hi Everyone, Welcome to FullStack-JavaScript bootcamp. This repository contains 
 | Week1| 4  |[Design-thinking-Lesson]()|[Design-thinking-Lab]()|[Design-thinking-HW]()
 | Week1| 5  |[Design-thinking-Lesson]()|[Design-thinking-Lab]()|[Design-thinking-HW]()
 | Week2| 1  |[Intro-To-World-Wide-Web](https://github.com/Tuwaiq-Academy-Training/Intro-To-World-Wide-Web)|[Intro-To-World-Wide-Web]()|[Intro-To-World-Wide-Web]()
-| Week2| 2  |[HTML-Lesson](https://github.com/Tuwaiq-Academy-Training/HTML-Lesson/blob/main/README.md)|[Lab1](https://www.dropbox.com/scl/fi/y6td7vzsrcze73m543mmg/Lab1.paper?rlkey=rjj8bsdus1rvxwx3srmuldhzb&dl=0#)-[Lab2]()|[HTML-HW]()
+| Week2| 2  |[HTML-Lesson](https://github.com/Tuwaiq-Academy-Training/HTML-Lesson/blob/main/README.md)|[Lab1](https://www.dropbox.com/scl/fi/y6td7vzsrcze73m543mmg/Lab1.paper?rlkey=rjj8bsdus1rvxwx3srmuldhzb&dl=0#)-[Lab2](https://www.dropbox.com/scl/fi/adc02uyt4o7upnvczy6sr/W2-D1-L2.paper?rlkey=3t4dpc52jixlkq7izmwlswhfm&st=wsoi1bw9&dl=0)|[HTML-HW]()
 | Week2| 3  |[Git&GitHub-Lesson]()|[Git&GitHub-Lab1]()-[Git&GitHub-Lab2]()|[Git&GitHub-HW]()
 | Week2| 4  |[Git&GitHub-Lesson]()|[Git&GitHub-Lab]()|[Git&GitHub-HW]()
 | Week2| 5  |[Intro-To-CSS-Lesson]()|[CSS-Lab1]()-[CSS-Lab2]()|[Intro-To-CSS-HW]()
