@@ -60,7 +60,7 @@ Hi Everyone, Welcome to FullStack-JavaScript bootcamp. This repository contains 
 | Week1| 3  |[Design-thinking-Lesson]()|[Design-thinking-Lab]()|[Design-thinking-HW](https://www.dropbox.com/scl/fi/vjqorh7fsc479tfej9hc2/Design-Thinking.paper?rlkey=qslvtnvspagoau6p5wwp8rlhp&st=van7yyzt&dl=0)
 | Week1| 4  |[Design-thinking-Lesson]()|[Design-thinking-Lab]()|[Design-thinking-HW]()
 | Week1| 5  |[Intro-To-World-Wide-Web](https://github.com/Tuwaiq-Academy-Training/Intro-To-World-Wide-Web)|[Design-thinking-Lab]()|[Design-thinking-HW]()
-| Week2| 1  |[HTML-Lesson](https://github.com/Tuwaiq-Academy-Training/HTML-Lesson/blob/main/README.md)|[Lab1](https://www.dropbox.com/scl/fi/y6td7vzsrcze73m543mmg/Lab1.paper?rlkey=rjj8bsdus1rvxwx3srmuldhzb&dl=0#)-[Lab2](https://www.dropbox.com/scl/fi/adc02uyt4o7upnvczy6sr/W2-D1-L2.paper?rlkey=3t4dpc52jixlkq7izmwlswhfm&st=wsoi1bw9&dl=0)|[HTML-HW]()
+| Week2| 1  |[HTML-Lesson](https://github.com/Tuwaiq-Academy-Training/HTML-Lesson/blob/main/README.md)|[Lab1](https://www.dropbox.com/scl/fi/y6td7vzsrcze73m543mmg/Lab1.paper?rlkey=rjj8bsdus1rvxwx3srmuldhzb&dl=0#)-[Lab2](https://www.dropbox.com/scl/fi/adc02uyt4o7upnvczy6sr/W2-D1-L2.paper?rlkey=3t4dpc52jixlkq7izmwlswhfm&st=wsoi1bw9&dl=0)|[HTML-HW](https://www.dropbox.com/scl/fi/42kr6933w3p8ooi4ra1vy/W2-D1-HW1.paper?rlkey=q1epwajn35wu2gz8n28rr3atj&st=9wdk7m8l&dl=0)
 | Week2| 2  |[Git&GitHub-Lesson]()|[Lab1]()-[Lab2]()|[Git&GitHub-HW]()
 | Week2| 3  |[Git&GitHub-Lesson]()|[Git&GitHub-Lab1]()-[Git&GitHub-Lab2]()|[Git&GitHub-HW]()
 | Week2| 4  |[Intro-To-CSS-Lesson]()|[CSS-Lab1]()-[CSS-Lab2]()|[Intro-To-CSS-HW]()
