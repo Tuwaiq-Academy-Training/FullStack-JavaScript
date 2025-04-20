@@ -66,7 +66,7 @@ Hi Everyone, Welcome to FullStack-JavaScript bootcamp. This repository contains 
 | Week2| 4  |[Intro-To-CSS-Lesson]()|[CSS-Lab1]()-[CSS-Lab2]()|[Intro-To-CSS-HW]()
 | Week2| 5  |[Css-Flexbox-Lesson]()|[Css-Flexbox-Lab]()|[Css-Flexbox-Project]()
 | Week3| 1  |[Grid-Lesson]()|[Grid-Lab]()|[Grid-HW]()
-| Week3| 2  |[Media-Queries-Lesson]()|[Media-Queries-Lab]()|[Media-Queries-HW])
+| Week3| 2  |[Media-Queries-Lesson]()|[Media-Queries-Lab]()|[Media-Queries-HW]()
 | Week3| 3  |[Bootstrap-Lesson]()|[BootstrapLab1]()-[Lab2]()|[Bootstrap-HW]()
 | Week3| 4  |[]()|[]()-[]()|[]()
 | Week3| 5  |[Css-Project]()|[Css-Project]()
