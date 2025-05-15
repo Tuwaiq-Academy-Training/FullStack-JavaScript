@@ -80,7 +80,7 @@ Hi Everyone, Welcome to FullStack-JavaScript bootcamp. This repository contains 
 | Week5| 3   |[JavaScript-project]()|[JavaScript]()-|[JavaScript-HW]()
 | Week5| 4   |[JavaScript-Quiz]()|[JavaScript]()-|[JavaScript-HW]()
 | Week5| 5   |[Project]()|[Project]()|[Project]()
-| Week6| 1   |[Intro-To-React-Lesson]()|[Intro-To-React-Lab]()|[Intro-To-React-HW]()
+| Week6| 1   |[Intro-To-React-Lesson](https://github.com/Tuwaiq-Academy-Training/React-Fundamentals-Lesson-ts/blob/main/README.md)|[Intro-To-React-Lab]()|[Intro-To-React-HW]()
 | Week6| 2    |[React-Props-Lesson]()|[React-Lab]()-[React-Lab2]()|[React-HW]() 
 | Week6| 3   |[React-Tailwind-Lesson]()|[React-Tailwind-Lab]()|[React-Tailwind-HW]()
 | Week6| 4   |[React-Routing-Lesson]()|[React-Routing-Lab]()|[React-Routing-HW]()
