@@ -79,7 +79,7 @@ Hi Everyone, Welcome to FullStack-JavaScript bootcamp. This repository contains 
 | Week5| 2   |[JavaScript-API-Lesson]()|[JS-API-Lab]()-[JS-API-Lab2]()|[JavaScript-API-HW](https://www.dropbox.com/scl/fi/9qgxvz4jrb1d7af9lqv2g/W5-D2-HW.paper?rlkey=td0zqch3crebo8ynqu654hu9s&dl=0)
 | Week5| 3   |[JavaScript-project]()|[JavaScript]()-|[JavaScript-HW]()
 | Week5| 4   |[Project]()|[JavaScript]()-|[JavaScript-HW]()
-| Week5| 5   |[JavaScript-Exzam]()|[JavaScript-Exzam]()|[JavaScript-Exzam]()
+| Week5| 5   |[JavaScript-Exzam](https://docs.google.com/document/d/1er6AgTSAQiSSyfiYPb1eLAGf13JTPKH3046nR5QvAe0/edit?usp=sharing)|[JavaScript-Exzam]()|[JavaScript-Exzam]()
 | Week6| 1   |[Intro-To-React-Lesson](https://github.com/Tuwaiq-Academy-Training/React-Fundamentals-Lesson-ts/blob/main/README.md)|[Intro-To-React-Lab]()|[Intro-To-React-HW]()
 | Week6| 2    |[React-Props-Lesson]()|[React-Lab]()-[React-Lab2]()|[React-HW]() 
 | Week6| 3   |[React-Tailwind-Lesson]()|[React-Tailwind-Lab]()|[React-Tailwind-HW]()
