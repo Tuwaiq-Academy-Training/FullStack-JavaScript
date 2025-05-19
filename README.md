@@ -81,7 +81,7 @@ Hi Everyone, Welcome to FullStack-JavaScript bootcamp. This repository contains 
 | Week5| 4   |[Project]()|[JavaScript]()-|[JavaScript-HW]()
 | Week5| 5   |[JavaScript-Exzam](https://docs.google.com/document/d/1er6AgTSAQiSSyfiYPb1eLAGf13JTPKH3046nR5QvAe0/edit?usp=sharing)|[JavaScript-Exzam]()|[JavaScript-Exzam]()
 | Week6| 1   |[Intro-To-React-Lesson](https://github.com/Tuwaiq-Academy-Training/React-Fundamentals-Lesson-ts/blob/main/README.md)|[Intro-To-React-Lab]()|[Intro-To-React-HW]()
-| Week6| 2    |[React-Props-Lesson]()|[React-Lab]()-[React-Lab2]()|[React-HW]() 
+| Week6| 2    |[React-Props-Lesson](https://stone-horn-a78.notion.site/Props-js-Lesson-6c690978fffa4523af972bb483a19c1e)|[React-Lab]()-[React-Lab2]()|[React-HW]() 
 | Week6| 3   |[React-Tailwind-Lesson]()|[React-Tailwind-Lab]()|[React-Tailwind-HW]()
 | Week6| 4   |[React-Routing-Lesson]()|[React-Routing-Lab]()|[React-Routing-HW]()
 | Week6| 5   |[React-Hooks-Lesson]()|[React-Hooks-Lab1]()-[Lab2]()|[React-Hooks-HW]() 
