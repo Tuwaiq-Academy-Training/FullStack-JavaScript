@@ -85,7 +85,7 @@ Hi Everyone, Welcome to FullStack-JavaScript bootcamp. This repository contains 
 | Week6| 3   |[React-Tailwind-Lesson]()|[React-Tailwind-Lab](https://stone-horn-a78.notion.site/W7-D2-Taliwind-Lab-7f803bbbcbef4c4ea8d5c8b53f77be87)|[React-Tailwind-HW](https://www.dropbox.com/scl/fi/q1m5qkiicejvna731ydjp/W6-D3-HW.paper?rlkey=0ew2u3xfy0iss80qe1mpevdnm&st=3eeygzeh&dl=0)
 | Week6| 4   |[React-Routing-Lesson]()|[React-Routing-Lab](https://www.dropbox.com/scl/fi/s6n6k25w4h9fevedcmly9/W6-D4-L1.paper?rlkey=u1z1naa1uj0twacc3flyw1d4c&st=3lk0c7ky&dl=0)|[React-Routing-HW](https://stone-horn-a78.notion.site/W7-D3-HW-e72f963b9d3748abbb9ec1270686f3f5)
 | Week6| 5   |[React-Hooks-Lesson]()|[React-Hooks-Lab1]()-[Lab2]()|[React-Hooks-HW]() 
-| Week7| 1   |[React-Project]()|[React-Project-Lab]()|[Week-Project]() 
+| Week7| 1   |[React-Project](https://www.dropbox.com/scl/fi/xgze6x0du1fcyemn7vlel/Weekend-Project.paper?rlkey=cnucah952gy1jb6qv0ap1hjjd&dl=0#)|[React-Project-Lab]()|[Week-Project]() 
 | Week7| 2   |[React-Hooks-Lesson]()|[React-Hooks-Lab]()|[React-Hooks-HW]()
 | Week7| 3   |[React-Api-Lesson]()|[Lab1]()-[Lab2]()|[React-Api-HW]()
 | Week7| 4   |[React-Api-Lesson2]()|[React-Api2-Lab]()|[React-Api2-HW]()
